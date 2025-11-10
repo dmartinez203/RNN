@@ -1,0 +1,9 @@
+{
+  "training_hours": null,
+  "avg_inference_latency_ms": 45.598554611206055,
+  "model_size_mb": 34.82521915435791,
+  "dataset_size_gb": 0.5021891118958592,
+  "peak_memory_mb": 261.140625,
+  "vocab_size": 15000,
+  "sequence_length": 15
+}
