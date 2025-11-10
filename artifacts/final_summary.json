@@ -1,0 +1,9 @@
+{
+  "val_loss": 6.8068389892578125,
+  "val_perplexity": 904.0087045364423,
+  "val_top1_acc": null,
+  "val_top5_acc": null,
+  "epochs_run": 15,
+  "seq_len": 15,
+  "vocab_size": 15000
+}
